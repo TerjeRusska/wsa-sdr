@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T16:35:24.267Z" agent="5.0 (X11)" etag="RUNAl0qQyBTIoJ52f-86" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-09T16:59:08.600Z" agent="5.0 (X11)" etag="UH-daW256QgDSMcctp71" version="16.5.5" type="github">
   <diagram id="1Ml_07pBc2CioWVJlMZ3" name="Page-1">
-    <mxGraphModel dx="1588" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="550" width="670" height="460" as="geometry" />
+          <mxGeometry x="940" y="940" width="670" height="460" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="550" width="670" height="460" as="geometry" />
+          <mxGeometry x="90" y="940" width="670" height="460" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t1Z1RavbhlWkUE8NRq0e-1" target="t1Z1RavbhlWkUE8NRq0e-3">
           <mxGeometry relative="1" as="geometry" />
@@ -20,31 +20,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-1" value="Universal Hacker Radio Python package / CLI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="905" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="1295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-2" value="GNU radio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="595" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="985" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1Z1RavbhlWkUE8NRq0e-3" target="t1Z1RavbhlWkUE8NRq0e-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-3" value="&lt;div&gt;UHR functionality&lt;/div&gt;&lt;div&gt;in a custom module&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="735" width="120" height="80" as="geometry" />
+          <mxGeometry x="140" y="1125" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1Z1RavbhlWkUE8NRq0e-4" target="t1Z1RavbhlWkUE8NRq0e-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-4" value="&lt;div&gt;UHR functionality&lt;/div&gt;&lt;div&gt;in a custom module&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="735" width="120" height="80" as="geometry" />
+          <mxGeometry x="365" y="1125" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="t1Z1RavbhlWkUE8NRq0e-5" target="t1Z1RavbhlWkUE8NRq0e-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-5" value="&lt;div&gt;UHR functionality&lt;/div&gt;&lt;div&gt;in a custom module&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="735" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="1125" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="t1Z1RavbhlWkUE8NRq0e-47" value="Universal Hacker Radio Python package / CLI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="1215" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t1Z1RavbhlWkUE8NRq0e-49" value="Core implementation option #1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1370" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1Z1RavbhlWkUE8NRq0e-50" value="Core implementation option #2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1370" width="670" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t1Z1RavbhlWkUE8NRq0e-51" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Creating custom modules for GNU radio that utilize UHR package functionalities.&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;This enables the possibility to build the whole program on GNU radio platform with already existing UI elements&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="680" y="890" width="150" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="t1Z1RavbhlWkUE8NRq0e-53" value="&lt;div&gt;Creating the program only by utilizing UHR or any other SDR package.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;UI will need to be custom made or kept as CLI&lt;br&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="890" width="150" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
